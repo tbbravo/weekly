@@ -5,7 +5,7 @@
  */
 .index {
     font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.5;
     color: #cfd2da;
     background-color: #252830;
@@ -161,7 +161,7 @@
 
 @media screen and (max-width: 640px) {
     .index {
-        font-size: 16px;
+        font-size: 18px;
     }
 
     .weekly-title {
@@ -177,8 +177,8 @@
         float: left;
     }
 
-    .tswk-reviewer {
-        margin-left: 2em;
+    .tswk-topic {
+        margin-right: 2em;
     }
 
     .weekly-content {
